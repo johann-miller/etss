@@ -32,7 +32,7 @@
           },
           {
             "id": 2,
-            "name": "Week 2",
+            "name": "Week 2 - Multiplication",
             "worksheets": [
               {
                 "id": "3-2-1",
@@ -68,7 +68,7 @@
           },
           {
             "id": 3,
-            "name": "Week 3",
+            "name": "Week 3 - Division",
             "worksheets": [
               {
                 "id": "3-3-1",
@@ -99,7 +99,7 @@
           },
           {
             "id": 4,
-            "name": "Week 4",
+            "name": "Week 4 - Properties of operations",
             "worksheets": [
               {
                 "id": "3-4-1",
@@ -125,7 +125,7 @@
           },
           {
             "id": 5,
-            "name": "Week 5",
+            "name": "Week 5 - Fractions",
             "worksheets": [
               {
                 "id": "3-5-1",
@@ -151,7 +151,7 @@
           },
           {
             "id": 6,
-            "name": "Week 6",
+            "name": "Week 6 - Measurement & data",
             "worksheets": [
               {
                 "id": "3-6-1",
@@ -177,7 +177,7 @@
           },
           {
             "id": 7,
-            "name": "Week 7",
+            "name": "Week 7 - Measurement & data continued",
             "worksheets": [
               {
                 "id": "3-7-1",
