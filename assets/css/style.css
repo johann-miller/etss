@@ -1,8 +1,8 @@
 :root {
-    --primary-color: #4a6da7;
+    --primary-color: black;
     --accent-color: #5d93d6;
-    --light-color: #f5f7fa;
-    --dark-color: #333;
+    --light-color: white;
+    --dark-color: black;
     --shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
     --border-radius: 8px;
   }
