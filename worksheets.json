@@ -1,0 +1,21 @@
+{
+    "grades": [
+      {
+        "id": 3,
+        "name": "Grade 3",
+        "weeks": [
+          {
+            "id": 1,
+            "name": "Week 1",
+            "worksheets": [
+              {
+                "id": "3.1.1",
+                "title": "Title",
+                "path": "Grade 3/Week 1/3.1.1 Title.pdf"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
