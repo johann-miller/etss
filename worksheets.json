@@ -9,9 +9,180 @@
             "name": "Week 1",
             "worksheets": [
               {
-                "id": "3.1.1",
-                "title": "Title",
-                "path": "Grade 3/Week 1/3.1.1 Title.pdf"
+                "id": "3-1-1",
+                "title": "Adding within 1000",
+                "path": "Grade 3/Week 1/3-1-1 Adding within 1000.pdf"
+              },
+              {
+                "id": "3-1-2",
+                "title": "Subtracting within 1000",
+                "path": "Grade 3/Week 1/3-1-2 Subtracting within 1000.pdf"
+              },
+              {
+                "id": "3-1-3",
+                "title": "Rounding",
+                "path": "Grade 3/Week 1/3-1-3 Rounding.pdf"
+              },
+              {
+                "id": "3-1-4",
+                "title": "Word problems",
+                "path": "Grade 3/Week 1/3-1-4 Word problems.pdf"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Week 2",
+            "worksheets": [
+              {
+                "id": "3-2-1",
+                "title": "Arrays",
+                "path": "Grade 3/Week 2/3-2-1 Arrays.pdf"
+              },
+              {
+                "id": "3-2-2",
+                "title": "Counting groups",
+                "path": "Grade 3/Week 2/3-2-2 Counting groups.pdf"
+              },
+              {
+                "id": "3-2-3",
+                "title": "Table",
+                "path": "Grade 3/Week 2/3-2-3 Table.pdf"
+              },
+              {
+                "id": "3-2-4",
+                "title": "Unknown numbers",
+                "path": "Grade 3/Week 2/3-2-4 Unknown numbers.pdf"
+              },
+              {
+                "id": "3-2-5",
+                "title": "Area of rectangles",
+                "path": "Grade 3/Week 2/3-2-5 Area of rectangles.pdf"
+              },
+              {
+                "id": "3-2-6",
+                "title": "Word problems",
+                "path": "Grade 3/Week 2/3-2-6 Word problems.pdf"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Week 3",
+            "worksheets": [
+              {
+                "id": "3-3-1",
+                "title": "Understanding division",
+                "path": "Grade 3/Week 3/3-3-1 Understanding division.pdf"
+              },
+              {
+                "id": "3-3-2",
+                "title": "Relationship to multiplication",
+                "path": "Grade 3/Week 3/3-3-2 Relationship to multiplication.pdf"
+              },
+              {
+                "id": "3-3-3",
+                "title": "Unknown dividend",
+                "path": "Grade 3/Week 3/3-3-3 Unknown dividend.pdf"
+              },
+              {
+                "id": "3-3-4",
+                "title": "Unknown divisor",
+                "path": "Grade 3/Week 3/3-3-4 Unknown divisor.pdf"
+              },
+              {
+                "id": "3-3-5",
+                "title": "Word problems",
+                "path": "Grade 3/Week 3/3-3-5 Word problems.pdf"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Week 4",
+            "worksheets": [
+              {
+                "id": "3-4-1",
+                "title": "Associative property",
+                "path": "Grade 3/Week 4/3-4-1 Associative property.pdf"
+              },
+              {
+                "id": "3-4-2",
+                "title": "Commutative property",
+                "path": "Grade 3/Week 4/3-4-2 Commutative property.pdf"
+              },
+              {
+                "id": "3-4-3",
+                "title": "Distributive property",
+                "path": "Grade 3/Week 4/3-4-3 Distributive property.pdf"
+              },
+              {
+                "id": "3-4-4",
+                "title": "Properties check",
+                "path": "Grade 3/Week 4/3-4-4 Properties check.pdf"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Week 5",
+            "worksheets": [
+              {
+                "id": "3-5-1",
+                "title": "Number line",
+                "path": "Grade 3/Week 5/3-5-1 Number line.pdf"
+              },
+              {
+                "id": "3-5-2",
+                "title": "Comparing with the number line",
+                "path": "Grade 3/Week 5/3-5-2 Comparing with the number line.pdf"
+              },
+              {
+                "id": "3-5-3",
+                "title": "Models",
+                "path": "Grade 3/Week 5/3-5-3 Models.pdf"
+              },
+              {
+                "id": "3-5-4",
+                "title": "Comparing with models",
+                "path": "Grade 3/Week 5/3-5-4 Comparing with models.pdf"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "Week 6",
+            "worksheets": [
+              {
+                "id": "3-6-1",
+                "title": "Telling time",
+                "path": "Grade 3/Week 6/3-6-1 Telling time.pdf"
+              },
+              {
+                "id": "3-6-2",
+                "title": "Elapsed time",
+                "path": "Grade 3/Week 6/3-6-2 Elapsed time.pdf"
+              },
+              {
+                "id": "3-6-3",
+                "title": "Temperature",
+                "path": "Grade 3/Week 6/3-6-3 Temperature.pdf"
+              },
+              {
+                "id": "3-6-4",
+                "title": "Counting money",
+                "path": "Grade 3/Week 6/3-6-4 Counting money.pdf"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": "Week 7",
+            "worksheets": [
+              {
+                "id": "3-7-1",
+                "title": "Worksheet",
+                "path": "Grade 3/Week 7/3-7-1.pdf"
               }
             ]
           }

@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', () => {
             week.worksheets.forEach(worksheet => {
               const item = document.createElement('li');
               const link = document.createElement('a');
-              link.href = worksheet.path;
+              link.href = `worksheets/${worksheet.path}`;
               link.textContent = `${worksheet.id} - ${worksheet.title}`;
               item.appendChild(link);
               worksheetList.appendChild(item);
