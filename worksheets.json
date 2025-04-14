@@ -56,13 +56,8 @@
               },
               {
                 "id": "3-2-5",
-                "title": "Area of rectangles",
-                "path": "Grade 3/Week 2/3-2-5 Area of rectangles.pdf"
-              },
-              {
-                "id": "3-2-6",
                 "title": "Word problems",
-                "path": "Grade 3/Week 2/3-2-6 Word problems.pdf"
+                "path": "Grade 3/Week 2/3-2-5 Word problems.pdf"
               }
             ]
           },
@@ -183,6 +178,16 @@
                 "id": "3-7-1",
                 "title": "Measuring with rulers",
                 "path": "Grade 3/Week 7/3-7-1 Measuring with rulers.pdf"
+              },
+              {
+                "id": "3-7-2",
+                "title": "Unit squares",
+                "path": "Grade 3/Week 7/3-7-1 Unit squares.pdf"
+              },
+              {
+                "id": "3-7-3",
+                "title": "Area of rectangles",
+                "path": "Grade 3/Week 7/3-7-1 Area of rectangles.pdf"
               }
             ]
           }
