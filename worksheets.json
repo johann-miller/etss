@@ -197,6 +197,265 @@
             ]
           }
         ]
+      },
+      {
+        "id": 8,
+        "name": "Grade 8",
+        "weeks": [
+          {
+            "id": 1,
+            "name": "Week 1",
+            "worksheets": [
+              {
+                "id": "8-1-1",
+                "title": "Spectrum Math 8-1-1 Page 1",
+                "path": "Grade 8/Week 1/Spectrum Math 8-1-1 Page 1.pdf"
+              },
+              {
+                "id": "8-1-2",
+                "title": "Spectrum Math 8-1-2 Page 2",
+                "path": "Grade 8/Week 1/Spectrum Math 8-1-2 Page 2.pdf"
+              },
+              {
+                "id": "8-1-3",
+                "title": "Spectrum Math 8-1-2",
+                "path": "Grade 8/Week 1/Spectrum Math 8-1-2.pdf"
+              },
+              {
+                "id": "8-1-4",
+                "title": "Spectrum Math 8-1-3 Page 1",
+                "path": "Grade 8/Week 1/Spectrum Math 8-1-3 Page 1.pdf"
+              },
+              {
+                "id": "8-1-5",
+                "title": "Spectrum Math 8-1-3 Page 2",
+                "path": "Grade 8/Week 1/Spectrum Math 8-1-3 Page 2.pdf"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Week 2",
+            "worksheets": [
+              {
+                "id": "8-2-1",
+                "title": "Spectrum Math 8-1-4 Page 1",
+                "path": "Grade 8/Week 2/Spectrum Math 8-1-4 Page 1.pdf"
+              },
+              {
+                "id": "8-2-2",
+                "title": "Spectrum Math 8-1-4 Page 2",
+                "path": "Grade 8/Week 2/Spectrum Math 8-1-4 Page 2.pdf"
+              },
+              {
+                "id": "8-2-3",
+                "title": "Spectrum Math 8-2-1",
+                "path": "Grade 8/Week 2/Spectrum Math 8-2-1.pdf"
+              },
+              {
+                "id": "8-2-4",
+                "title": "Spectrum Math 8-2-2 Page 1",
+                "path": "Grade 8/Week 2/Spectrum Math 8-2-2 Page 1.pdf"
+              },
+              {
+                "id": "8-2-5",
+                "title": "Spectrum Math 8-2-2 Page 2",
+                "path": "Grade 8/Week 2/Spectrum Math 8-2-2 Page 2.pdf"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Week 3",
+            "worksheets": [
+              {
+                "id": "8-3-1",
+                "title": "Spectrum Math 8-2-3 Page 1",
+                "path": "Grade 8/Week 3/Spectrum Math 8-2-3 Page 1.pdf"
+              },
+              {
+                "id": "8-3-2",
+                "title": "Spectrum Math 8-2-3 Page 2",
+                "path": "Grade 8/Week 3/Spectrum Math 8-2-3 Page 2.pdf"
+              },
+              {
+                "id": "8-3-3",
+                "title": "Spectrum Math 8-2-3",
+                "path": "Grade 8/Week 3/Spectrum Math 8-2-3.pdf"
+              },
+              {
+                "id": "8-3-4",
+                "title": "Spectrum Math 8-2-4 Page 1",
+                "path": "Grade 8/Week 3/Spectrum Math 8-2-4 Page 1.pdf"
+              },
+              {
+                "id": "8-3-5",
+                "title": "Spectrum Math 8-2-4 Page 2",
+                "path": "Grade 8/Week 3/Spectrum Math 8-2-4 Page 2.pdf"
+              },
+              {
+                "id": "8-3-6",
+                "title": "Spectrum Math 8-2-5",
+                "path": "Grade 8/Week 3/Spectrum Math 8-2-5.pdf"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Week 4",
+            "worksheets": [
+              {
+                "id": "8-4-1",
+                "title": "Spectrum Math 8-3-1 Page 1",
+                "path": "Grade 8/Week 4/Spectrum Math 8-3-1 Page 1.pdf"
+              },
+              {
+                "id": "8-4-2",
+                "title": "Spectrum Math 8-3-1 Page 2",
+                "path": "Grade 8/Week 4/Spectrum Math 8-3-1 Page 2.pdf"
+              },
+              {
+                "id": "8-4-3",
+                "title": "Spectrum Math 8-3-2 Page 1",
+                "path": "Grade 8/Week 4/Spectrum Math 8-3-2 Page 1.pdf"
+              },
+              {
+                "id": "8-4-4",
+                "title": "Spectrum Math 8-3-2 Page 2",
+                "path": "Grade 8/Week 4/Spectrum Math 8-3-2 Page 2.pdf"
+              },
+              {
+                "id": "8-4-5",
+                "title": "Spectrum Math 8-3-3 Page 1",
+                "path": "Grade 8/Week 4/Spectrum Math 8-3-3 Page 1.pdf"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Week 5",
+            "worksheets": [
+              {
+                "id": "8-5-1",
+                "title": "Spectrum Math 8-3-3 Page 2",
+                "path": "Grade 8/Week 5/Spectrum Math 8-3-3 Page 2.pdf"
+              },
+              {
+                "id": "8-5-2",
+                "title": "Spectrum Math 8-3-4 Page 1",
+                "path": "Grade 8/Week 5/Spectrum Math 8-3-4 Page 1.pdf"
+              },
+              {
+                "id": "8-5-3",
+                "title": "Spectrum Math 8-3-4 Page 2",
+                "path": "Grade 8/Week 5/Spectrum Math 8-3-4 Page 2.pdf"
+              },
+              {
+                "id": "8-5-4",
+                "title": "Spectrum Math 8-3-5 Page 1",
+                "path": "Grade 8/Week 5/Spectrum Math 8-3-5 Page 1.pdf"
+              },
+              {
+                "id": "8-5-5",
+                "title": "Spectrum Math 8-3-5 Page 2",
+                "path": "Grade 8/Week 5/Spectrum Math 8-3-5 Page 2.pdf"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "Week 6",
+            "worksheets": [
+              {
+                "id": "8-6-1",
+                "title": "Spectrum Math 8-3-6",
+                "path": "Grade 8/Week 6/Spectrum Math 8-3-6.pdf"
+              },
+              {
+                "id": "8-6-2",
+                "title": "Spectrum Math 8-3-7 Page 1",
+                "path": "Grade 8/Week 6/Spectrum Math 8-3-7 Page 1.pdf"
+              },
+              {
+                "id": "8-6-3",
+                "title": "Spectrum Math 8-3-7 Page 2",
+                "path": "Grade 8/Week 6/Spectrum Math 8-3-7 Page 2.pdf"
+              },
+              {
+                "id": "8-6-4",
+                "title": "Spectrum Math 8-3-8 Page 1",
+                "path": "Grade 8/Week 6/Spectrum Math 8-3-8 Page 1.pdf"
+              },
+              {
+                "id": "8-6-5",
+                "title": "Spectrum Math 8-3-8 Page 2",
+                "path": "Grade 8/Week 6/Spectrum Math 8-3-8 Page 2.pdf"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": "Week 7",
+            "worksheets": [
+              {
+                "id": "8-7-1",
+                "title": "Spectrum Math 8-4-1",
+                "path": "Grade 8/Week 7/Spectrum Math 8-4-1.pdf"
+              },
+              {
+                "id": "8-7-2",
+                "title": "Spectrum Math 8-4-3",
+                "path": "Grade 8/Week 7/Spectrum Math 8-4-3.pdf"
+              },
+              {
+                "id": "8-7-3",
+                "title": "Spectrum Math 8-4-6",
+                "path": "Grade 8/Week 7/Spectrum Math 8-4-6.pdf"
+              },
+              {
+                "id": "8-7-4",
+                "title": "Spectrum Math 8-4-7",
+                "path": "Grade 8/Week 7/Spectrum Math 8-4-7.pdf"
+              },
+              {
+                "id": "8-7-5",
+                "title": "Spectrum Math 8-4-9",
+                "path": "Grade 8/Week 7/Spectrum Math 8-4-9.pdf"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": "Week 8",
+            "worksheets": [
+              {
+                "id": "8-8-1",
+                "title": "Spectrum Math 8-5-6",
+                "path": "Grade 8/Week 8/Spectrum Math 8-5-6.pdf"
+              },
+              {
+                "id": "8-8-2",
+                "title": "Spectrum Math 8-5-7",
+                "path": "Grade 8/Week 8/Spectrum Math 8-5-7.pdf"
+              },
+              {
+                "id": "8-8-3",
+                "title": "Spectrum Math 8-5-8",
+                "path": "Grade 8/Week 8/Spectrum Math 8-5-8.pdf"
+              },
+              {
+                "id": "8-8-4",
+                "title": "Spectrum Math 8-5-9",
+                "path": "Grade 8/Week 8/Spectrum Math 8-5-9.pdf"
+              },
+              {
+                "id": "8-8-5",
+                "title": "Spectrum Math 8-5-10",
+                "path": "Grade 8/Week 8/Spectrum Math 8-5-10.pdf"
+              }
+            ]
+          }
+        ]
       }
     ]
   }
