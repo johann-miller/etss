@@ -1,72 +1,62 @@
 document.addEventListener('DOMContentLoaded', () => {
-    // Add loading indicator
-    const container = document.getElementById('worksheets-container');
-    container.innerHTML = '<div class="loading">Loading worksheets...</div>';
-    
     fetch('worksheets.json')
-      .then(response => {
-        if (!response.ok) {
-          throw new Error('Network response was not ok');
-        }
-        return response.json();
-      })
+      .then(response => response.json())
       .then(data => {
-        // Clear loading indicator
-        container.innerHTML = '';
+        const container = document.getElementById('worksheets-container');
         
         data.grades.forEach(grade => {
           const gradeSection = document.createElement('div');
           gradeSection.className = 'grade-section';
           
+          const gradeHeader = document.createElement('div');
+          gradeHeader.className = 'grade-header';
+          
+          const toggleButton = document.createElement('button');
+          toggleButton.className = 'toggle-button';
+          toggleButton.setAttribute('aria-expanded', 'false');
+          
           const gradeTitle = document.createElement('h2');
           gradeTitle.textContent = grade.name;
-          gradeSection.appendChild(gradeTitle);
           
-          // Check if grade has any weeks
-          if (grade.weeks && grade.weeks.length > 0) {
-            grade.weeks.forEach(week => {
-              const weekSection = document.createElement('div');
-              weekSection.className = 'week-section';
-              
-              const weekTitle = document.createElement('h3');
-              weekTitle.textContent = week.name;
-              weekSection.appendChild(weekTitle);
-              
-              // Check if week has any worksheets
-              if (week.worksheets && week.worksheets.length > 0) {
-                const worksheetList = document.createElement('ul');
-                week.worksheets.forEach(worksheet => {
-                  const item = document.createElement('li');
-                  const link = document.createElement('a');
-                  link.href = `worksheets/${worksheet.path}`;
-                  link.textContent = `${worksheet.id} - ${worksheet.title}`;
-                  // Add download attribute
-                  link.setAttribute('download', '');
-                  
-                  item.appendChild(link);
-                  worksheetList.appendChild(item);
-                });
-                
-                weekSection.appendChild(worksheetList);
-              } else {
-                const noWorksheets = document.createElement('p');
-                noWorksheets.textContent = 'No worksheets available for this week.';
-                weekSection.appendChild(noWorksheets);
-              }
-              
-              gradeSection.appendChild(weekSection);
+          toggleButton.appendChild(gradeTitle);
+          gradeHeader.appendChild(toggleButton);
+          gradeSection.appendChild(gradeHeader);
+          
+          const contentWrapper = document.createElement('div');
+          contentWrapper.className = 'grade-content collapsed';
+          
+          grade.weeks.forEach(week => {
+            const weekSection = document.createElement('div');
+            weekSection.className = 'week-section';
+            
+            const weekTitle = document.createElement('h3');
+            weekTitle.textContent = week.name;
+            weekSection.appendChild(weekTitle);
+            
+            const worksheetList = document.createElement('ul');
+            week.worksheets.forEach(worksheet => {
+              const item = document.createElement('li');
+              const link = document.createElement('a');
+              link.href = `worksheets/${worksheet.path}`;
+              link.textContent = `${worksheet.id} - ${worksheet.title}`;
+              item.appendChild(link);
+              worksheetList.appendChild(item);
             });
-          } else {
-            const noWeeks = document.createElement('p');
-            noWeeks.textContent = 'No content available for this grade.';
-            gradeSection.appendChild(noWeeks);
-          }
+            
+            weekSection.appendChild(worksheetList);
+            contentWrapper.appendChild(weekSection);
+          });
           
+          gradeSection.appendChild(contentWrapper);
           container.appendChild(gradeSection);
+          
+          // Toggle functionality
+          toggleButton.addEventListener('click', () => {
+            const isExpanded = toggleButton.getAttribute('aria-expanded') === 'true';
+            toggleButton.setAttribute('aria-expanded', !isExpanded);
+            contentWrapper.classList.toggle('collapsed');
+          });
         });
       })
-      .catch(error => {
-        console.error('Error loading worksheets:', error);
-        container.innerHTML = `<div class="error">Error loading worksheets. Please try again later.</div>`;
-      });
-  });
+      .catch(error => console.error('Error loading worksheets:', error));
+});
