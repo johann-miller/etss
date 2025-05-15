@@ -5,7 +5,7 @@
 //   - "name": descriptive name with format "Week X - topic"
 //   - "worksheets": array of 6 worksheets
 // - Each worksheet has:
-//   - "id": position within the week (1-6), resets each week
+//   - "id": position within the week (1-6), resets each week. For example, the third worksheet in the week has id:3
 //   - "title": matches the PDF filename pattern "Spectrum Math G-C-L" where:
 //     - G = grade number
 //     - C = chapter number
