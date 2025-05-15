@@ -47,16 +47,25 @@ document.addEventListener('DOMContentLoaded', () => {
             contentWrapper.appendChild(weekSection);
           });
           
+          // Add collapse button at the bottom
+          const collapseButton = document.createElement('button');
+          collapseButton.className = 'collapse-button';
+          collapseButton.textContent = '▲';
+          contentWrapper.appendChild(collapseButton);
+          
           gradeSection.appendChild(contentWrapper);
           container.appendChild(gradeSection);
           
           // Toggle functionality
-          toggleButton.addEventListener('click', () => {
+          const toggleContent = () => {
             const isExpanded = toggleButton.getAttribute('aria-expanded') === 'true';
             toggleButton.setAttribute('aria-expanded', !isExpanded);
             contentWrapper.classList.toggle('collapsed');
-          });
+          };
+          
+          toggleButton.addEventListener('click', toggleContent);
+          collapseButton.addEventListener('click', toggleContent);
         });
       })
       .catch(error => console.error('Error loading worksheets:', error));
-});
+  });
