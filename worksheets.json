@@ -295,299 +295,299 @@
       ]
     },
     {
-    "id": 2,
-    "name": "Grade 2",
-    "weeks": [
-      {
-        "id": 1,
-        "name": "Week 1 - Understanding numbers",
-        "worksheets": [
-          {
-            "id": "2-1-1",
-            "title": "Spectrum Math 2-1-1",
-            "path": "Grade 2/Week 1 - Understanding numbers/Spectrum Math 2-1-1.pdf"
-          },
-          {
-            "id": "2-1-2",
-            "title": "Spectrum Math 2-1-2",
-            "path": "Grade 2/Week 1 - Understanding numbers/Spectrum Math 2-1-2.pdf"
-          },
-          {
-            "id": "2-1-3",
-            "title": "Spectrum Math 2-1-3",
-            "path": "Grade 2/Week 1 - Understanding numbers/Spectrum Math 2-1-3.pdf"
-          },
-          {
-            "id": "2-1-4",
-            "title": "Spectrum Math 2-1-4",
-            "path": "Grade 2/Week 1 - Understanding numbers/Spectrum Math 2-1-4.pdf"
-          },
-          {
-            "id": "2-2-1",
-            "title": "Spectrum Math 2-2-1",
-            "path": "Grade 2/Week 1 - Understanding numbers/Spectrum Math 2-2-1.pdf"
-          },
-          {
-            "id": "2-2-2",
-            "title": "Spectrum Math 2-2-2",
-            "path": "Grade 2/Week 1 - Understanding numbers/Spectrum Math 2-2-2.pdf"
-          }
-        ]
-      },
-      {
-        "id": 2,
-        "name": "Week 2 - Addition and subtraction basics",
-        "worksheets": [
-          {
-            "id": "2-2-3",
-            "title": "Spectrum Math 2-2-3",
-            "path": "Grade 2/Week 2 - Addition and subtraction basics/Spectrum Math 2-2-3.pdf"
-          },
-          {
-            "id": "2-2-4",
-            "title": "Spectrum Math 2-2-4",
-            "path": "Grade 2/Week 2 - Addition and subtraction basics/Spectrum Math 2-2-4.pdf"
-          },
-          {
-            "id": "2-2-5",
-            "title": "Spectrum Math 2-2-5",
-            "path": "Grade 2/Week 2 - Addition and subtraction basics/Spectrum Math 2-2-5.pdf"
-          },
-          {
-            "id": "2-2-6",
-            "title": "Spectrum Math 2-2-6",
-            "path": "Grade 2/Week 2 - Addition and subtraction basics/Spectrum Math 2-2-6.pdf"
-          },
-          {
-            "id": "2-2-7",
-            "title": "Spectrum Math 2-2-7",
-            "path": "Grade 2/Week 2 - Addition and subtraction basics/Spectrum Math 2-2-7.pdf"
-          },
-          {
-            "id": "2-2-8",
-            "title": "Spectrum Math 2-2-8",
-            "path": "Grade 2/Week 2 - Addition and subtraction basics/Spectrum Math 2-2-8.pdf"
-          }
-        ]
-      },
-      {
-        "id": 3,
-        "name": "Week 3 - Advanced addition and subtraction",
-        "worksheets": [
-          {
-            "id": "2-2-9",
-            "title": "Spectrum Math 2-2-9",
-            "path": "Grade 2/Week 3 - Advanced addition and subtraction/Spectrum Math 2-2-9.pdf"
-          },
-          {
-            "id": "2-2-10",
-            "title": "Spectrum Math 2-2-10",
-            "path": "Grade 2/Week 3 - Advanced addition and subtraction/Spectrum Math 2-2-10.pdf"
-          },
-          {
-            "id": "2-2-11",
-            "title": "Spectrum Math 2-2-11",
-            "path": "Grade 2/Week 3 - Advanced addition and subtraction/Spectrum Math 2-2-11.pdf"
-          },
-          {
-            "id": "2-2-12",
-            "title": "Spectrum Math 2-2-12",
-            "path": "Grade 2/Week 3 - Advanced addition and subtraction/Spectrum Math 2-2-12.pdf"
-          },
-          {
-            "id": "2-2-13",
-            "title": "Spectrum Math 2-2-13",
-            "path": "Grade 2/Week 3 - Advanced addition and subtraction/Spectrum Math 2-2-13.pdf"
-          },
-          {
-            "id": "2-3-1",
-            "title": "Spectrum Math 2-3-1",
-            "path": "Grade 2/Week 3 - Advanced addition and subtraction/Spectrum Math 2-3-1.pdf"
-          }
-        ]
-      },
-      {
-        "id": 4,
-        "name": "Week 4 - 2-digit operations",
-        "worksheets": [
-          {
-            "id": "2-3-2",
-            "title": "Spectrum Math 2-3-2",
-            "path": "Grade 2/Week 4 - 2-digit operations/Spectrum Math 2-3-2.pdf"
-          },
-          {
-            "id": "2-3-3",
-            "title": "Spectrum Math 2-3-3",
-            "path": "Grade 2/Week 4 - 2-digit operations/Spectrum Math 2-3-3.pdf"
-          },
-          {
-            "id": "2-3-4",
-            "title": "Spectrum Math 2-3-4",
-            "path": "Grade 2/Week 4 - 2-digit operations/Spectrum Math 2-3-4.pdf"
-          },
-          {
-            "id": "2-3-5",
-            "title": "Spectrum Math 2-3-5",
-            "path": "Grade 2/Week 4 - 2-digit operations/Spectrum Math 2-3-5.pdf"
-          },
-          {
-            "id": "2-3-6",
-            "title": "Spectrum Math 2-3-6",
-            "path": "Grade 2/Week 4 - 2-digit operations/Spectrum Math 2-3-6.pdf"
-          },
-          {
-            "id": "2-4-1",
-            "title": "Spectrum Math 2-4-1",
-            "path": "Grade 2/Week 4 - 2-digit operations/Spectrum Math 2-4-1.pdf"
-          }
-        ]
-      },
-      {
-        "id": 5,
-        "name": "Week 5 - Advanced 2-digit operations",
-        "worksheets": [
-          {
-            "id": "2-4-2",
-            "title": "Spectrum Math 2-4-2",
-            "path": "Grade 2/Week 5 - Advanced 2-digit operations/Spectrum Math 2-4-2.pdf"
-          },
-          {
-            "id": "2-4-3",
-            "title": "Spectrum Math 2-4-3",
-            "path": "Grade 2/Week 5 - Advanced 2-digit operations/Spectrum Math 2-4-3.pdf"
-          },
-          {
-            "id": "2-4-4",
-            "title": "Spectrum Math 2-4-4",
-            "path": "Grade 2/Week 5 - Advanced 2-digit operations/Spectrum Math 2-4-4.pdf"
-          },
-          {
-            "id": "2-5-1",
-            "title": "Spectrum Math 2-5-1",
-            "path": "Grade 2/Week 5 - Advanced 2-digit operations/Spectrum Math 2-5-1.pdf"
-          },
-          {
-            "id": "2-5-2",
-            "title": "Spectrum Math 2-5-2",
-            "path": "Grade 2/Week 5 - Advanced 2-digit operations/Spectrum Math 2-5-2.pdf"
-          },
-          {
-            "id": "2-5-3",
-            "title": "Spectrum Math 2-5-3",
-            "path": "Grade 2/Week 5 - Advanced 2-digit operations/Spectrum Math 2-5-3.pdf"
-          }
-        ]
-      },
-      {
-        "id": 6,
-        "name": "Week 6 - 3-digit numbers",
-        "worksheets": [
-          {
-            "id": "2-5-4",
-            "title": "Spectrum Math 2-5-4",
-            "path": "Grade 2/Week 6 - 3-digit numbers/Spectrum Math 2-5-4.pdf"
-          },
-          {
-            "id": "2-5-5",
-            "title": "Spectrum Math 2-5-5",
-            "path": "Grade 2/Week 6 - 3-digit numbers/Spectrum Math 2-5-5.pdf"
-          },
-          {
-            "id": "2-5-6",
-            "title": "Spectrum Math 2-5-6",
-            "path": "Grade 2/Week 6 - 3-digit numbers/Spectrum Math 2-5-6.pdf"
-          },
-          {
-            "id": "2-5-7",
-            "title": "Spectrum Math 2-5-7",
-            "path": "Grade 2/Week 6 - 3-digit numbers/Spectrum Math 2-5-7.pdf"
-          },
-          {
-            "id": "2-5-8",
-            "title": "Spectrum Math 2-5-8",
-            "path": "Grade 2/Week 6 - 3-digit numbers/Spectrum Math 2-5-8.pdf"
-          },
-          {
-            "id": "2-5-9",
-            "title": "Spectrum Math 2-5-9",
-            "path": "Grade 2/Week 6 - 3-digit numbers/Spectrum Math 2-5-9.pdf"
-          }
-        ]
-      },
-      {
-        "id": 7,
-        "name": "Week 7 - Measurement and time",
-        "worksheets": [
-          {
-            "id": "2-5-10",
-            "title": "Spectrum Math 2-5-10",
-            "path": "Grade 2/Week 7 - Measurement and time/Spectrum Math 2-5-10.pdf"
-          },
-          {
-            "id": "2-6-1",
-            "title": "Spectrum Math 2-6-1",
-            "path": "Grade 2/Week 7 - Measurement and time/Spectrum Math 2-6-1.pdf"
-          },
-          {
-            "id": "2-6-2",
-            "title": "Spectrum Math 2-6-2",
-            "path": "Grade 2/Week 7 - Measurement and time/Spectrum Math 2-6-2.pdf"
-          },
-          {
-            "id": "2-6-3",
-            "title": "Spectrum Math 2-6-3",
-            "path": "Grade 2/Week 7 - Measurement and time/Spectrum Math 2-6-3.pdf"
-          },
-          {
-            "id": "2-6-4",
-            "title": "Spectrum Math 2-6-4",
-            "path": "Grade 2/Week 7 - Measurement and time/Spectrum Math 2-6-4.pdf"
-          },
-          {
-            "id": "2-6-5",
-            "title": "Spectrum Math 2-6-5",
-            "path": "Grade 2/Week 7 - Measurement and time/Spectrum Math 2-6-5.pdf"
-          }
-        ]
-      },
-      {
-        "id": 8,
-        "name": "Week 8 - Geometry and fractions",
-        "worksheets": [
-          {
-            "id": "2-6-6",
-            "title": "Spectrum Math 2-6-6",
-            "path": "Grade 2/Week 8 - Geometry and fractions/Spectrum Math 2-6-6.pdf"
-          },
-          {
-            "id": "2-7-1",
-            "title": "Spectrum Math 2-7-1",
-            "path": "Grade 2/Week 8 - Geometry and fractions/Spectrum Math 2-7-1.pdf"
-          },
-          {
-            "id": "2-7-2",
-            "title": "Spectrum Math 2-7-2",
-            "path": "Grade 2/Week 8 - Geometry and fractions/Spectrum Math 2-7-2.pdf"
-          },
-          {
-            "id": "2-8-1",
-            "title": "Spectrum Math 2-8-1",
-            "path": "Grade 2/Week 8 - Geometry and fractions/Spectrum Math 2-8-1.pdf"
-          },
-          {
-            "id": "2-8-2",
-            "title": "Spectrum Math 2-8-2",
-            "path": "Grade 2/Week 8 - Geometry and fractions/Spectrum Math 2-8-2.pdf"
-          },
-          {
-            "id": "2-8-3",
-            "title": "Spectrum Math 2-8-3",
-            "path": "Grade 2/Week 8 - Geometry and fractions/Spectrum Math 2-8-3.pdf"
-          }
-        ]
-      }
-    ]
+  "id": 2,
+  "name": "Grade 2",
+  "weeks": [
+    {
+      "id": 1,
+      "name": "Week 1 - Understanding numbers",
+      "worksheets": [
+        {
+          "id": "1",
+          "title": "Spectrum Math 2-1-1",
+          "path": "Grade 2/Week 1 - Understanding numbers/Spectrum Math 2-1-1.pdf"
+        },
+        {
+          "id": "2",
+          "title": "Spectrum Math 2-1-2",
+          "path": "Grade 2/Week 1 - Understanding numbers/Spectrum Math 2-1-2.pdf"
+        },
+        {
+          "id": "3",
+          "title": "Spectrum Math 2-1-3",
+          "path": "Grade 2/Week 1 - Understanding numbers/Spectrum Math 2-1-3.pdf"
+        },
+        {
+          "id": "4",
+          "title": "Spectrum Math 2-1-4",
+          "path": "Grade 2/Week 1 - Understanding numbers/Spectrum Math 2-1-4.pdf"
+        },
+        {
+          "id": "5",
+          "title": "Spectrum Math 2-2-1",
+          "path": "Grade 2/Week 1 - Understanding numbers/Spectrum Math 2-2-1.pdf"
+        },
+        {
+          "id": "6",
+          "title": "Spectrum Math 2-2-2",
+          "path": "Grade 2/Week 1 - Understanding numbers/Spectrum Math 2-2-2.pdf"
+        }
+      ]
     },
+    {
+      "id": 2,
+      "name": "Week 2 - Addition and subtraction basics",
+      "worksheets": [
+        {
+          "id": "1",
+          "title": "Spectrum Math 2-2-3",
+          "path": "Grade 2/Week 2 - Addition and subtraction basics/Spectrum Math 2-2-3.pdf"
+        },
+        {
+          "id": "2",
+          "title": "Spectrum Math 2-2-4",
+          "path": "Grade 2/Week 2 - Addition and subtraction basics/Spectrum Math 2-2-4.pdf"
+        },
+        {
+          "id": "3",
+          "title": "Spectrum Math 2-2-5",
+          "path": "Grade 2/Week 2 - Addition and subtraction basics/Spectrum Math 2-2-5.pdf"
+        },
+        {
+          "id": "4",
+          "title": "Spectrum Math 2-2-6",
+          "path": "Grade 2/Week 2 - Addition and subtraction basics/Spectrum Math 2-2-6.pdf"
+        },
+        {
+          "id": "5",
+          "title": "Spectrum Math 2-2-7",
+          "path": "Grade 2/Week 2 - Addition and subtraction basics/Spectrum Math 2-2-7.pdf"
+        },
+        {
+          "id": "6",
+          "title": "Spectrum Math 2-2-8",
+          "path": "Grade 2/Week 2 - Addition and subtraction basics/Spectrum Math 2-2-8.pdf"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Week 3 - Advanced addition and subtraction",
+      "worksheets": [
+        {
+          "id": "1",
+          "title": "Spectrum Math 2-2-9",
+          "path": "Grade 2/Week 3 - Advanced addition and subtraction/Spectrum Math 2-2-9.pdf"
+        },
+        {
+          "id": "2",
+          "title": "Spectrum Math 2-2-10",
+          "path": "Grade 2/Week 3 - Advanced addition and subtraction/Spectrum Math 2-2-10.pdf"
+        },
+        {
+          "id": "3",
+          "title": "Spectrum Math 2-2-11",
+          "path": "Grade 2/Week 3 - Advanced addition and subtraction/Spectrum Math 2-2-11.pdf"
+        },
+        {
+          "id": "4",
+          "title": "Spectrum Math 2-2-12",
+          "path": "Grade 2/Week 3 - Advanced addition and subtraction/Spectrum Math 2-2-12.pdf"
+        },
+        {
+          "id": "5",
+          "title": "Spectrum Math 2-2-13",
+          "path": "Grade 2/Week 3 - Advanced addition and subtraction/Spectrum Math 2-2-13.pdf"
+        },
+        {
+          "id": "6",
+          "title": "Spectrum Math 2-3-1",
+          "path": "Grade 2/Week 3 - Advanced addition and subtraction/Spectrum Math 2-3-1.pdf"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Week 4 - 2-digit operations",
+      "worksheets": [
+        {
+          "id": "1",
+          "title": "Spectrum Math 2-3-2",
+          "path": "Grade 2/Week 4 - 2-digit operations/Spectrum Math 2-3-2.pdf"
+        },
+        {
+          "id": "2",
+          "title": "Spectrum Math 2-3-3",
+          "path": "Grade 2/Week 4 - 2-digit operations/Spectrum Math 2-3-3.pdf"
+        },
+        {
+          "id": "3",
+          "title": "Spectrum Math 2-3-4",
+          "path": "Grade 2/Week 4 - 2-digit operations/Spectrum Math 2-3-4.pdf"
+        },
+        {
+          "id": "4",
+          "title": "Spectrum Math 2-3-5",
+          "path": "Grade 2/Week 4 - 2-digit operations/Spectrum Math 2-3-5.pdf"
+        },
+        {
+          "id": "5",
+          "title": "Spectrum Math 2-3-6",
+          "path": "Grade 2/Week 4 - 2-digit operations/Spectrum Math 2-3-6.pdf"
+        },
+        {
+          "id": "6",
+          "title": "Spectrum Math 2-4-1",
+          "path": "Grade 2/Week 4 - 2-digit operations/Spectrum Math 2-4-1.pdf"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Week 5 - Advanced 2-digit operations",
+      "worksheets": [
+        {
+          "id": "1",
+          "title": "Spectrum Math 2-4-2",
+          "path": "Grade 2/Week 5 - Advanced 2-digit operations/Spectrum Math 2-4-2.pdf"
+        },
+        {
+          "id": "2",
+          "title": "Spectrum Math 2-4-3",
+          "path": "Grade 2/Week 5 - Advanced 2-digit operations/Spectrum Math 2-4-3.pdf"
+        },
+        {
+          "id": "3",
+          "title": "Spectrum Math 2-4-4",
+          "path": "Grade 2/Week 5 - Advanced 2-digit operations/Spectrum Math 2-4-4.pdf"
+        },
+        {
+          "id": "4",
+          "title": "Spectrum Math 2-5-1",
+          "path": "Grade 2/Week 5 - Advanced 2-digit operations/Spectrum Math 2-5-1.pdf"
+        },
+        {
+          "id": "5",
+          "title": "Spectrum Math 2-5-2",
+          "path": "Grade 2/Week 5 - Advanced 2-digit operations/Spectrum Math 2-5-2.pdf"
+        },
+        {
+          "id": "6",
+          "title": "Spectrum Math 2-5-3",
+          "path": "Grade 2/Week 5 - Advanced 2-digit operations/Spectrum Math 2-5-3.pdf"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Week 6 - 3-digit numbers",
+      "worksheets": [
+        {
+          "id": "1",
+          "title": "Spectrum Math 2-5-4",
+          "path": "Grade 2/Week 6 - 3-digit numbers/Spectrum Math 2-5-4.pdf"
+        },
+        {
+          "id": "2",
+          "title": "Spectrum Math 2-5-5",
+          "path": "Grade 2/Week 6 - 3-digit numbers/Spectrum Math 2-5-5.pdf"
+        },
+        {
+          "id": "3",
+          "title": "Spectrum Math 2-5-6",
+          "path": "Grade 2/Week 6 - 3-digit numbers/Spectrum Math 2-5-6.pdf"
+        },
+        {
+          "id": "4",
+          "title": "Spectrum Math 2-5-7",
+          "path": "Grade 2/Week 6 - 3-digit numbers/Spectrum Math 2-5-7.pdf"
+        },
+        {
+          "id": "5",
+          "title": "Spectrum Math 2-5-8",
+          "path": "Grade 2/Week 6 - 3-digit numbers/Spectrum Math 2-5-8.pdf"
+        },
+        {
+          "id": "6",
+          "title": "Spectrum Math 2-5-9",
+          "path": "Grade 2/Week 6 - 3-digit numbers/Spectrum Math 2-5-9.pdf"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Week 7 - Measurement and time",
+      "worksheets": [
+        {
+          "id": "1",
+          "title": "Spectrum Math 2-5-10",
+          "path": "Grade 2/Week 7 - Measurement and time/Spectrum Math 2-5-10.pdf"
+        },
+        {
+          "id": "2",
+          "title": "Spectrum Math 2-6-1",
+          "path": "Grade 2/Week 7 - Measurement and time/Spectrum Math 2-6-1.pdf"
+        },
+        {
+          "id": "3",
+          "title": "Spectrum Math 2-6-2",
+          "path": "Grade 2/Week 7 - Measurement and time/Spectrum Math 2-6-2.pdf"
+        },
+        {
+          "id": "4",
+          "title": "Spectrum Math 2-6-3",
+          "path": "Grade 2/Week 7 - Measurement and time/Spectrum Math 2-6-3.pdf"
+        },
+        {
+          "id": "5",
+          "title": "Spectrum Math 2-6-4",
+          "path": "Grade 2/Week 7 - Measurement and time/Spectrum Math 2-6-4.pdf"
+        },
+        {
+          "id": "6",
+          "title": "Spectrum Math 2-6-5",
+          "path": "Grade 2/Week 7 - Measurement and time/Spectrum Math 2-6-5.pdf"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Week 8 - Geometry and fractions",
+      "worksheets": [
+        {
+          "id": "1",
+          "title": "Spectrum Math 2-6-6",
+          "path": "Grade 2/Week 8 - Geometry and fractions/Spectrum Math 2-6-6.pdf"
+        },
+        {
+          "id": "2",
+          "title": "Spectrum Math 2-7-1",
+          "path": "Grade 2/Week 8 - Geometry and fractions/Spectrum Math 2-7-1.pdf"
+        },
+        {
+          "id": "3",
+          "title": "Spectrum Math 2-7-2",
+          "path": "Grade 2/Week 8 - Geometry and fractions/Spectrum Math 2-7-2.pdf"
+        },
+        {
+          "id": "4",
+          "title": "Spectrum Math 2-8-1",
+          "path": "Grade 2/Week 8 - Geometry and fractions/Spectrum Math 2-8-1.pdf"
+        },
+        {
+          "id": "5",
+          "title": "Spectrum Math 2-8-2",
+          "path": "Grade 2/Week 8 - Geometry and fractions/Spectrum Math 2-8-2.pdf"
+        },
+        {
+          "id": "6",
+          "title": "Spectrum Math 2-8-3",
+          "path": "Grade 2/Week 8 - Geometry and fractions/Spectrum Math 2-8-3.pdf"
+        }
+      ]
+    }
+  ]
+},
     {
       "id": 3,
       "name": "Grade 3",
@@ -781,6 +781,22 @@
               "id": "4",
               "title": "Perimeter",
               "path": "Grade 3/Week 7/3-7-4 Perimeter.pdf"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "name": "Week 8 - Geometry",
+          "worksheets": [
+            {
+              "id": "1",
+              "title": "Triangle types by angle",
+              "path": "Grade 3/Week 8/3-8-1 Triangle types by angle.pdf"
+            },
+            {
+              "id": "2",
+              "title": "Triangle types by side.",
+              "path": "Grade 3/Week 8/3-8-2 Triangle types by side.pdf"
             }
           ]
         }
